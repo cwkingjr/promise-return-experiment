@@ -1,4 +1,4 @@
-# promise-return-experiment
+# JavaScript Promise Return Experiment
 
 Do you need to use return when calling javascript promise resolve or reject statements?
 
