@@ -1,0 +1,18 @@
+mylaptop:promise-return-experiment chuck$ node ./index.js 
+-- Invoking promiseWithReturns with error
+promiseWithReturns: before reject
+-- Invoking promiseWithReturns no error
+promiseWithReturns: before resolve
+-- Invoking promiseWithoutReturns with error
+promiseWithoutReturns: before reject
+promiseWithoutReturns: after reject
+promiseWithoutReturns: before resolve
+promiseWithoutReturns: after resolve
+-- Invoking promiseWithoutReturns no error
+promiseWithoutReturns: before resolve
+promiseWithoutReturns: after resolve
+-- async results --
+promiseWithReturns: error
+promiseWithReturns: Resolved
+promiseWithoutReturns: error
+promiseWithoutReturns: Resolved

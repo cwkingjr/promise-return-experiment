@@ -1,0 +1,10 @@
+{
+  "name": "promise-return-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cwkingjr/promise-return-experiment",
+  "author": {
+    "name": "Chuck King"
+  },
+  "license": "MIT"
+}
